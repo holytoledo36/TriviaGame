@@ -5,10 +5,16 @@ body{
   font-size: 25px;
 }
 
+h1{
+  text-align: center;
+  font-weight: bold;
+  font-size: 50pt;
+  background-color: lightblue;
+  opacity: 0.8;
+}
 header{
   margin-bottom: 20px;
 }
-
 .btn-primary,.reset{
   background-color: #313477;
   color: white;
